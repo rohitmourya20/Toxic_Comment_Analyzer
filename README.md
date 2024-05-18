@@ -16,14 +16,13 @@ A threshold logic is applied post-prediction to convert probabilistic prediction
 
 In summary, the Toxic Comment Analyzer project showcases the integration of deep learning techniques, data preprocessing methodologies, and user-friendly interfaces to address the challenge of comment toxicity analysis. Its medium-scale implementation encompasses data cleaning, model development, training, evaluation, interface creation, and post-processing logic, making it a valuable tool for content moderation and sentiment analysis in online platforms.
 
-Gradio in interface to detect the toxicity in comment in terms of percentage:
+Gradio interface to detect the toxicity in comment in terms of percentage:
 
 ![Screenshot 2024-05-18 202605](https://github.com/rohitmourya20/Toxic_Comment_Analyzer/assets/170001383/343b39cb-af77-4159-8673-21cbae581ba2)
 
 
-Gradio in interface to detect the toxicity in comment in terms of True/False:
+Gradio interface to detect the toxicity in comment in terms of True/False:
 
 ![Screenshot 2024-05-18 204442](https://github.com/rohitmourya20/Toxic_Comment_Analyzer/assets/170001383/c72d6f6a-185d-46a8-a501-4830b18270e1)
-
 
 ![Screenshot 2024-05-18 202545](https://github.com/rohitmourya20/Toxic_Comment_Analyzer/assets/170001383/386fad55-137d-4fef-9c7d-f6649c2b27ea)
